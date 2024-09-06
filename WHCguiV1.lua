@@ -1,15 +1,8 @@
 --[[ Info
-    WHC Gui version 1
-    All by Wejqy, harkinian_hax and c00lkidd (WHC team)
-    Supported games: all :D
-]]
-
---[[ Prices
-    5 executions - 990CZK (43,52USD)
-    10 executions - 1590CZK (69,90USD)
-    20 executions - 2999CZK (131,85USD)
-    35 executions - 5299CZK (232,96USD)
-]]
+    WHC Gui version 1.0
+    All by Wejqy
+    FilteringEnabled = true, :(
+]]--
 
 --[[ The WHC gui v1 Script ]]--
 
